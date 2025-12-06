@@ -1,5 +1,6 @@
 {
 	"format_version": "1.8.0",
+	"credit": "Owleaf Studio ©",
 	"animations": {
 		"emote.sodapop": {
 			"animation_length": 20.9375,
